@@ -1,15 +1,15 @@
 ## Current ( under implementation)
-- Videos
-    - Long Videos (Movies)
-    - Short Videos 
-    - Playlists -> List of movies
-    - Seasons -> Playlist of Playlists
-- Categories
-    -> Action, Comedy, ...
-- Tags
-    -> Action, Comedy, Drama, Action-Comedy, ...
-- User Ratings ( Prepares our system for Machine Learning )
-    - 1-5 rating 
+    - Videos
+        - Long Videos (Movies)
+        - Short Videos 
+        - Playlists -> List of movies
+        - Seasons -> Playlist of Playlists
+    - Categories
+        -> Action, Comedy, ...
+    - Tags
+        -> Action, Comedy, Drama, Action-Comedy, ...
+    - User Ratings ( Prepares our system for Machine Learning )
+        - 1-5 rating 
 
 
 ## Future
